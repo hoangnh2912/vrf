@@ -1,0 +1,1 @@
+npx ts-node scripts/linkDeploy.ts --network localhost
